@@ -1,6 +1,12 @@
 # Dataset Link
 since dataset is more than 25mb i cant upload it on github
+for news categories i have use fetch_20newsgroups
+use it as ---->>from sklearn.datasets import fetch_20newsgroups
 
+for news categories
+Link: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
+
+for FAKE/REAL news 
 LINK:https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
 
 # NEWS_PREDICTION
