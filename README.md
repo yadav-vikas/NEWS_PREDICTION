@@ -1,3 +1,7 @@
+# Dataset Link
+since dataset is more than 25mb i cant upload it on github
+LINK: #https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view
+
 # NEWS_PREDICTION
 This project provides the given news belongs to which group as well it is FAKE/REAL
 
